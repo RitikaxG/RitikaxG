@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritika Gupta</h1>
 
-<p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aiming+to+be+a+Tech+Alchemist;An+ML+Engineer/Data+Scientist;Eager+Seaker+of+Knowledge)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Aiming+to+be+a+Tech+Alchemist;An+ML+Engineer/Data+Scientist;Eager+Seaker+of+Knowledge)](https://git.io/typing-svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
