@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ritika Gupta</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&fill=FF69B4&lines=Aiming+to+be+a+Tech+Alchemist;An+ML+Engineer/Data+Scientist;Eager+Seaker+of+Knowledge)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm Ritika Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=Aiming+to+be+Data+Scientist;Machine+Learning+Engineer;DS+%7C+ML+%7C+NLP+%7C+DL+%7C+AI"></a>
+</p>
+<hr/>
 
 
 <h3 align="center">Tech Stack</h3>
@@ -37,10 +39,11 @@
     <img alt="Power BI" src="https://img.shields.io/badge/-Power BI-F2C811?style=for-the-badge&logo=Power+BI&logoColor=white">
   </a>
 </p>
+<hr/>
 
 <div align='center'><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikaxg&show_icons=true&locale=en&layout=compact&theme=radical" alt="ritikaxg" /></p>
-
+<hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikaxg&show_icons=true&locale=en&theme=radical" alt="ritikaxg" /></p>
-
+<hr/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikaxg&theme=radical" alt="ritikaxg" /></p></div>
 
