@@ -1,49 +1,97 @@
-<h1 align="center">Hi, I'm Ritika Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi, I'm Ritika Gupta 👋</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=Aiming+to+be+Data+Scientist;Machine+Learning+Engineer;DS+%7C+ML+%7C+NLP+%7C+DL+%7C+AI"></a>
+  <strong>Backend & Applied AI Engineer</strong><br/>
+  Building distributed systems, cloud control planes, and governed agentic workflows.
 </p>
-<hr/>
 
-
-<h3 align="center">Tech Stack</h3>
 <p align="center">
-  <a>
-    <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  <a>
-    <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>
-  <a>
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white">
-  </a>
-
-  <br> 
-
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
-  </a>
-  <a>
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-4f6578?style=for-the-badge&logo=GitHub&logoColor=white">
-  </a>
-
-  <br>
-
-  <a>
-    <img alt="HTML" src="https://img.shields.io/badge/-HTML-f06529?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-  <a>
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=CSS3&logoColor=white">
-  </a>
-
-  <a>
-    <img alt="Power BI" src="https://img.shields.io/badge/-Power BI-F2C811?style=for-the-badge&logo=Power+BI&logoColor=white">
-  </a>
+  <a href="mailto:ritikag5533@gmail.com">Email</a>
+  ·
+  <a href="https://x.com/RitikaxG">X / Twitter</a>
 </p>
-<hr/>
 
-<div align='center'><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikaxg&show_icons=true&locale=en&layout=compact&theme=radical" alt="ritikaxg" /></p>
-<hr/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikaxg&show_icons=true&locale=en&theme=radical" alt="ritikaxg" /></p>
-<hr/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikaxg&theme=radical" alt="ritikaxg" /></p></div>
+---
 
+## About me
+
+I build product-focused systems where backend architecture, infrastructure, and AI have to work together reliably.
+
+My recent work covers:
+
+- distributed and event-driven backend systems
+- cloud control planes and runtime lifecycle orchestration
+- Kubernetes, GitOps, CI/CD, and observability
+- policy-grounded RAG, guarded agents, workflow memory, and evaluation
+- human-in-the-loop AI with traceable and governed decisions
+
+I care about the engineering around the model just as much as the model call: validation, failure handling, idempotency, observability, evaluation, safety boundaries, and operational proof.
+
+## Featured projects
+
+### [ClaimFlow AI](https://github.com/RitikaxG/claimflow_ai)
+
+A governed agentic workflow that turns an unstructured motor-insurance claim into a policy-grounded, human-reviewed, and fully traceable case.
+
+- document extraction and deterministic validation
+- policy RAG with verified citations and abstention
+- guarded tool-calling agent and human review
+- safe workflow memory from trusted outcomes
+- AI gateway, per-run traces, cost and latency visibility
+- synthetic evaluation suites covering the complete workflow
+
+**Built with:** TypeScript, Next.js, PostgreSQL, Prisma, pgvector, OpenAI, Bun, Turborepo, Docker
+
+---
+
+### [SpinUp](https://github.com/RitikaxG/SpinUp)
+
+A control-plane-first cloud workspace platform that turns a browser request into a real code-server environment running on AWS.
+
+- EC2 Auto Scaling Group allocation and idle VM reuse
+- explicit runtime lifecycle and failure states
+- Redis locks and runtime state mirroring
+- VM agent and Docker-based workspace boot
+- S3-backed project restore and synchronization
+- browser dashboard exposing infrastructure state
+
+**Built with:** TypeScript, Next.js, PostgreSQL, Redis, AWS EC2/ASG/S3, Docker, Clerk, Bun, Turborepo
+
+---
+
+### [RunState](https://github.com/RitikaxG/runState)
+
+A production-style uptime monitoring platform built around independent workers and Redis Streams.
+
+- scheduled website monitoring and response-time history
+- status-transition detection and incident lifecycle
+- asynchronous notification pipeline
+- authenticated user and admin dashboards
+- Prometheus metrics and containerized local development
+- Kubernetes deployment managed through a separate GitOps repository
+
+**Built with:** Go, Gin, Redis Streams, PostgreSQL, Next.js, Docker, Prometheus
+
+**Deployment:** [runstate-gitops](https://github.com/RitikaxG/runstate-gitops) — Argo CD, Kustomize, External Secrets, ingress, Grafana, HPA, and automated image updates.
+
+## Engineering toolbox
+
+**Languages:** Go, TypeScript, JavaScript, Python, SQL  
+**Backend:** Gin, Node.js, REST APIs, background workers, event-driven systems  
+**Data:** PostgreSQL, Prisma, Redis, pgvector  
+**Cloud & infrastructure:** AWS, Docker, Kubernetes, Argo CD, Kustomize, GitHub Actions  
+**AI systems:** RAG, tool-calling agents, workflow memory, evaluations, tracing, human review  
+**Frontend:** Next.js, React, Tailwind CSS  
+**Observability:** Prometheus, Grafana, structured traces and model-call metadata
+
+## What I am looking for
+
+I am interested in backend, platform, cloud, and applied AI engineering roles where I can work on reliable product systems—not isolated demos.
+
+I am especially drawn to teams building developer infrastructure, AI-enabled workflows, distributed services, internal platforms, or operational tooling.
+
+---
+
+<p align="center">
+  Explore the repositories above for architecture diagrams, implementation walkthroughs, demos, evaluation results, and operational evidence.
+</p>
